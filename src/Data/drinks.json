@@ -1,5 +1,4 @@
-{
-	"cocktails": [
+[
 		{
 			"image": "http://cocktail.itsplanet.eu/img/cocktail/2017_1.jpg",
 			"name": "Americano",
@@ -441,4 +440,3 @@
 			"preparation": "Rum (White) (60) Lime (20) Coconut Syrup (2) Apricot Brandy (30) Pineapple Juice (60)"
 		}
 	]
-}

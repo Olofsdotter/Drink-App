@@ -1,6 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import {BrowserRouter, Route, Switch, Link, NavLink} from 'react-router-dom';
+import {BrowserRouter, Route, Switch, NavLink} from 'react-router-dom';
 import HomePage from './Components/Home/Home';
 import ExplorePage from './Components/Explore/Explore';
 import './App.css';

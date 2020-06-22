@@ -1,8 +1,14 @@
 import React from 'react';
+import cocktails from './cocktails.jpg';
+import './Home.css';
 
-const HomePage = (props) => {
-    console.log(props);
-    return <div>Home page</div>
+const HomePage = () => {
+    return (
+        <div>
+            <h1>Welcome to The Cocktail Explorer</h1>
+            <img src={cocktails} alt={'Homepage cocktails'} />
+        </div>
+    )
 };
 
 export default HomePage;
