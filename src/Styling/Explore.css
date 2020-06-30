@@ -1,0 +1,19 @@
+.content {
+  width: 100%;
+}
+.cards {
+  position: relative;
+}
+.card-container {
+  box-sizing: border-box;
+  padding: 20px;
+  float: left;
+  position: relative;
+}
+input {
+  display: flex;
+  margin: auto;
+}
+label {
+  font-size: 12px;
+}
